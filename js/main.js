@@ -152,11 +152,11 @@
     });    
 })(jQuery);
 
-$('#topbar').load('/partials/topbar.html');
-$('#navbar').load('/partials/navbar.html');
-$('#service').load('/partials/service.html');
-$('#banner').load('/partials/banner.html');
-$('#footer').load('/partials/footer.html');
-$('#contact').load('/partials/contact.html');
+$('#topbar').load('/oda_autowerkz/partials/topbar.html');
+$('#navbar').load('/oda_autowerkz/partials/navbar.html');
+$('#service').load('/oda_autowerkz/partials/service.html');
+$('#banner').load('/oda_autowerkz/partials/banner.html');
+$('#footer').load('/oda_autowerkz/partials/footer.html');
+$('#contact').load('/oda_autowerkz/partials/contact.html');
 
 
