@@ -152,11 +152,11 @@
     });    
 })(jQuery);
 
-$('#topbar').load('../partials/topbar.html');
-$('#navbar').load('../partials/navbar.html');
-$('#service').load('../partials/service.html');
-$('#banner').load('../partials/banner.html');
-$('#footer').load('../partials/footer.html');
-$('#contact').load('../partials/contact.html');
+$('#topbar').load('/partials/topbar.html');
+$('#navbar').load('/partials/navbar.html');
+$('#service').load('/partials/service.html');
+$('#banner').load('/partials/banner.html');
+$('#footer').load('/partials/footer.html');
+$('#contact').load('/partials/contact.html');
 
 
